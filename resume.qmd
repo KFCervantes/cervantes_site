@@ -1,0 +1,34 @@
+---
+title: "Resume"
+format: html
+---
+
+## Education
+
+## Skills and Interests
+### Languages
+* C++
+* R
+    * tidyverse
+    * R Markdown
+    * Quarto Markdown
+* Python
+    * Matplotlib
+    * ScikitLearn
+    * Pandas
+    * Numpy
+    * Jupyter
+* $\LaTeX$
+* MySQL
+* Postgres
+
+## Coursework
+* Programming Languages
+* Computer Graphics
+* Combinatorics
+* Data Science
+* Web and Data Mining
+* Applied Machine Learning
+* Applied Linear Algebra
+* Partial Differential Equations
+* Numerical Analysis

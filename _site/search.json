@@ -2,15 +2,50 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "I am currently a graduate student seeking an analyst position."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "cervantes_site",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to my website."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Skills and Interests\n\n\nCoursework"
+  },
+  {
+    "objectID": "resume.html#skills-and-interests",
+    "href": "resume.html#skills-and-interests",
+    "title": "Resume",
+    "section": "Skills and Interests",
+    "text": "Skills and Interests\n\nLanguages\n\nC++\nR\n\ntidyverse\nR Markdown\nQuarto Markdown\n\nPython\n\nMatplotlib\nScikitLearn\nPandas\nNumpy\nJupyter\n\n\\(\\LaTeX\\)\nMySQL\nPostgres"
+  },
+  {
+    "objectID": "resume.html#coursework",
+    "href": "resume.html#coursework",
+    "title": "Resume",
+    "section": "Coursework",
+    "text": "Coursework\n\nProgramming Languages\nComputer Graphics\nCombinatorics\nData Science\nWeb and Data Mining\nApplied Machine Learning\nApplied Linear Algebra\nPartial Differential Equations\nNumerical Analysis"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Developed a Discord bot that allows concurrent non-preemptive single player games of hangman on a Discord server.\nIncorporated Discord.py wrapper & constructed a custom game state class for the game’s management."
+  },
+  {
+    "objectID": "projects.html#tic-tac-toe-ios-app",
+    "href": "projects.html#tic-tac-toe-ios-app",
+    "title": "Projects",
+    "section": "Tic-Tac-Toe iOS App",
+    "text": "Tic-Tac-Toe iOS App\n\nDeveloped a Tic-Tac-Toe iOS application that allows users to play against an unbeatable AI.\nIncorporated C++, Objective-C, and Swift to allow multi-language interaction and to design and implement an intuitive user interface and to reduce runtime by over 80%."
   }
 ]
