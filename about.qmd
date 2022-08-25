@@ -1,5 +1,14 @@
 ---
 title: "About Me"
+about:
+    template: solana
+    links:
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/kfcervantes/
+      - icon: github
+        text: GitHub
+        href: https://github.com/KFCervantes
 ---
 
 I am currently a graduate student seeking an analyst position.
