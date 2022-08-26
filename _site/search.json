@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "I am currently a graduate student seeking an analyst position."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "cervantes_site",
-    "section": "",
-    "text": "Welcome to my website."
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Resume",
-    "section": "",
-    "text": "Skills and Interests\n\n\nCoursework"
-  },
-  {
     "objectID": "resume.html#skills-and-interests",
     "href": "resume.html#skills-and-interests",
     "title": "Resume",
@@ -47,5 +26,19 @@
     "title": "Projects",
     "section": "Tic-Tac-Toe iOS App",
     "text": "Tic-Tac-Toe iOS App\n\nDeveloped a Tic-Tac-Toe iOS application that allows users to play against an unbeatable AI.\nIncorporated C++, Objective-C, and Swift to allow multi-language interaction and to design and implement an intuitive user interface and to reduce runtime by over 80%."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "cervantes_site",
+    "section": "",
+    "text": "Welcome to my website."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am currently a graduate student seeking an analyst position."
   }
 ]
