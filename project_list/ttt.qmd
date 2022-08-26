@@ -1,0 +1,8 @@
+---
+title: "Tic-Tac-Toe iOS App"
+format: html
+description: "Github repository can be found [here](https://github.com/KFCervantes/TicTacToe)"
+---
+
+* Developed a Tic-Tac-Toe iOS application that allows users to play against an unbeatable AI.
+* Incorporated C++, Objective-C,  and Swift to allow multi-language interaction and to design and implement an intuitive user interface and to reduce runtime by over 80%.

@@ -1,0 +1,8 @@
+---
+title: "Discord Hangman Bot"
+format: html
+description: "Github repository can be found [here](https://github.com/KFCervantes/discordHangman)"
+---
+
+* Developed a Discord bot that allows concurrent non-preemptive single player games of hangman on a Discord server.
+* Incorporated Discord.py wrapper & constructed a custom game state class for the game's management.

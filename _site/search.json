@@ -18,7 +18,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Developed a Discord bot that allows concurrent non-preemptive single player games of hangman on a Discord server.\nIncorporated Discord.py wrapper & constructed a custom game state class for the game’s management."
+    "text": "Discord Hangman Bot\n\n\n\n\n\nGithub repository can be found here\n\n\n\n\n \n\n\n\n\n\n\nTic-Tac-Toe iOS App\n\n\n\n\n\nGithub repository can be found here\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#tic-tac-toe-ios-app",
@@ -40,5 +40,26 @@
     "title": "About Me",
     "section": "",
     "text": "I am currently a graduate student seeking an analyst position."
+  },
+  {
+    "objectID": "project_list/hangman.html",
+    "href": "project_list/hangman.html",
+    "title": "Discord Hangman Bot",
+    "section": "",
+    "text": "Developed a Discord bot that allows concurrent non-preemptive single player games of hangman on a Discord server.\nIncorporated Discord.py wrapper & constructed a custom game state class for the game’s management."
+  },
+  {
+    "objectID": "project_list/ttt.html",
+    "href": "project_list/ttt.html",
+    "title": "Tic-Tac-Toe iOS App",
+    "section": "",
+    "text": "Developed a Tic-Tac-Toe iOS application that allows users to play against an unbeatable AI.\nIncorporated C++, Objective-C, and Swift to allow multi-language interaction and to design and implement an intuitive user interface and to reduce runtime by over 80%."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This is where I type some of my thoughts that are longer or share some of the stuff I am learning or interested in."
   }
 ]

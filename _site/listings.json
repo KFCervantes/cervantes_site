@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/project_list/hangman.html",
+      "/project_list/ttt.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/project_list/hangman.html",
+      "/project_list/ttt.html"
+    ]
+  }
+]

@@ -1,14 +1,9 @@
 ---
 title: "Projects"
 format: html
+listing: 
+    contents: project_list
+    type: default
 ---
 
-## Discord Hangman Bot
-* Developed a Discord bot that allows concurrent non-preemptive single player games of hangman on a Discord server.
-* Incorporated Discord.py wrapper & constructed a custom game state class for the game's management.
-
-## Tic-Tac-Toe iOS App
-* Developed a Tic-Tac-Toe iOS application that allows users to play against an unbeatable AI.
-* Incorporated C++, Objective-C,  and Swift to allow multi-language interaction and to design and implement an intuitive user interface and to reduce runtime by over 80%.
-
-# This needs to be changed to a listing later.
+This page is where I list my projects. You can read more in depth on their own page and access the github links.

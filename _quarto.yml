@@ -11,6 +11,7 @@ website:
       - about.qmd
       - resume.qmd
       - projects.qmd
+      - blog.qmd
     right: 
       - icon: linkedin
         # text: LinkedIn
