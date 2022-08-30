@@ -60,6 +60,27 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "This is where I type some of my thoughts that are longer or share some of the stuff I am learning or interested in."
+    "text": "Induction Proofs\n\n\n\n\n\nExplanation on how to do an induction proof\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog_list/induction.html",
+    "href": "blog_list/induction.html",
+    "title": "Induction Proofs",
+    "section": "",
+    "text": "One important thing to learn how to for a lot of theory based math courses is induction proofs. These have two steps:\nIf both the base case and inductive step hold, then the statement holds for the base case and all following cases."
+  },
+  {
+    "objectID": "blog_list/induction.html#variations",
+    "href": "blog_list/induction.html#variations",
+    "title": "Induction Proofs",
+    "section": "Variations",
+    "text": "Variations\nThere is also a variation called “Strong Induction”. This is very similar to regular induction, however the main difference is that we assume that the statement holds from the base case up to some specific case. This is a subtle difference, but may be important to use for some proofs."
+  },
+  {
+    "objectID": "blog_list/induction.html#example",
+    "href": "blog_list/induction.html#example",
+    "title": "Induction Proofs",
+    "section": "Example",
+    "text": "Example\nLets consider the following statement:\n\\(\\forall n \\in \\mathbb Z^+\\)\n\\[\n\\sum_{i = 1}^n i = \\binom{n + 1}{2}\n\\]\nGiven this statement, we will want to look at the base case and inductive step.\n\nBase Case\nIn this case, \\(n\\) can be any positive integer. The smallest possible value for \\(n\\) is 1, so that is our base case.\nFirst we simplify the left side of the equation.\n\\[\n\\sum_{i = 1}^1 i = 1\n\\]\nNow we simplify the right side of the equation.\n\\[\n\\begin{aligned}\n\\binom{1 + 1}{2} &= \\binom{2}{2} \\\\\n&= 1\n\\end{aligned}\n\\]\nSince both sides of the equation are equal to 1, the base case holds.\n\n\nInductive step\nFor this, we assume that the statement is true for some \\(k \\in \\mathbb Z^+\\). It may help to write this out with the formula.\n\\[\n\\sum_{i = 1}^k i = \\binom{k + 1}{2}\n\\]\nWe want to show that the statement also holds for \\(k + 1\\). This means proving\n\\[\n\\sum_{i = 1}^{k + 1} i = \\binom{k + 2}{2}\n\\]\nTo do this, we will first rewrite the sum portion of the statement we want to prove.\n\\[\n\\sum_{i = 1}^{k + 1} i = \\left( \\sum_{i = 1}^{k} i\\right) + (k + 1)\n\\]\nGiven our assumption for the inductive step, we can replace the sum with the binomial and do some algebraic stuff.\n\\[\n\\begin{aligned}\n\\sum_{i = 1}^{k + 1} i &= \\left( \\sum_{i = 1}^{k} i\\right) + (k + 1) \\\\\n&= \\binom{k + 1}{2} + (k + 1) \\\\\n&= \\frac{(k + 1)_2}{2!} + (k + 1) \\\\\n&= \\frac{(k + 1) \\cdot k}{2} + (k + 1) \\\\\n&= (k + 1) \\left( \\frac{k}{2} + 1\\right) \\\\\n&= \\frac{(k + 1) (k + 2)}{2} \\\\\n&= \\frac{(k + 2)_2}{2!} \\\\\n&= \\binom{k + 2}{2}\n\\end{aligned}\n\\]\nThis proved the inductive step. Now you may have noticed that this used a lot of algebra. This is sometimes the case.\n\n\nImplications for both holding\nFor this statement, the base case was true for \\(n = 1\\). Since we also proved the induction step, we can let \\(k = 1\\) and the statement will be true for \\(n = 2\\). We can then repeat that induction step indefinatly. This means that for any \\(n \\geq 2\\), we can start at the base case and then repeat the induction step until we show the statement is true for \\(n\\). This repeated induction step could take a while which is why we prove the step works. From there this process is implied."
   }
 ]

@@ -1,6 +1,9 @@
 ---
 title: "Blog"
 format: html
+listing: 
+    contents: blog_list
+    type: default
 ---
 
 This is where I type some of my thoughts that are longer or share some of the stuff I am learning or interested in.
